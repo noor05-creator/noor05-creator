@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm bs Artificial Intelligence student<br>currently working on python automation projects<br>I'm currently learning machine learning <br>
+I’m a BS Artificial Intelligence student with a strong interest in building intelligent and automated systems.
+
+🤖 Currently working on Python automation projects
+
+📊 Learning and exploring Machine Learning concepts and algorithms
+
+💡 Passionate about problem-solving, AI systems, and real-world applications
+
+🚀 Continuously improving my programming and analytical skills
+
+I enjoy turning ideas into practical solutions through code and constantly challenging myself to grow as an AI developer.
 
 
 ## 🌐 Socials:
